@@ -1,3 +1,9 @@
 # challenge-1
 
-## Website for Horiseon
+## Purpose
+Website made for Horiseon
+
+## Screenshots
+![screenshot1](./assets/images/screen1)
+![screenshot2](./assets/images/screen2)
+![screenshot3](./assets/images/screen3)
