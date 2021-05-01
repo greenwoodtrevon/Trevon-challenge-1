@@ -31,6 +31,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* merged CSS for the ul and li */
 .header ul li {
     display: inline-block;
